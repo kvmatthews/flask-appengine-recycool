@@ -1,4 +1,4 @@
-# Recycool - Flask API
+# Recycool - Flask API (Python 3.9.2)
 Using Flask to build an API for a machine learning image classification model. This API will then be deployed using App Engine.
 
 ## How to Use
