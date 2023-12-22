@@ -1,0 +1,8 @@
+flask==3.0.0
+opencv-python-headless==4.8.1.78
+numpy==1.24.3
+tensorflow==2.13.0
+matplotlib==3.8.2
+keras==2.13.1
+jsonify
+gunicorn==20.1.0
