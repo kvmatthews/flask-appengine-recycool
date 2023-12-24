@@ -35,7 +35,7 @@ Inside [Google Cloud Platform (GCP)](https://console.cloud.google.com/welcome)
 ```
 gcloud config set compute/region "REGION"
 ```
- 2. Deploy project
+ 2. Deploy project 
 ```
 gcloud app deploy
 ```
